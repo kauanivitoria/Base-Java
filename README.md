@@ -6,3 +6,4 @@
 - variáveis do tipo boolean;
 - operações básicas;
 - concatenação;
+
