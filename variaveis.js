@@ -3,7 +3,7 @@
 
 const meuNumero = 6;
 const numeroUm = 7;
-const numeroDois = 2;
+const numeroDois = 2; 
 
 
 const soma = numeroUm + meuNumero;
