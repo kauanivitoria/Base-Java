@@ -59,3 +59,4 @@ console.log(comparacaoII)
 
 const comparacaoIII = '6' == meuNumero
 console.log(comparacaoIII);
+
